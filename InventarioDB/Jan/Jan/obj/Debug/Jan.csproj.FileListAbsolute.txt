@@ -1,0 +1,14 @@
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\bin\Debug\Jan.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\bin\Debug\Jan.exe
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\bin\Debug\Jan.pdb
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\obj\Debug\Jan.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\obj\Debug\Jan.Form1.resources
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\obj\Debug\Jan.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\obj\Debug\Jan.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\obj\Debug\Jan.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\obj\Debug\Jan.exe
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\obj\Debug\Jan.pdb
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\obj\Debug\Jan.GestionarProveedor.resources
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\obj\Debug\Jan.GestionCategorias.resources
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\obj\Debug\Jan.GestionarProducto.resources
+C:\Users\sebas\OneDrive\Escritorio\Prueba\Jan\Jan\obj\Debug\Jan.GestionarReporte.resources
